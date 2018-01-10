@@ -24,3 +24,6 @@ I used Android studio as an IDE with Java as a programming language and Recycler
 For Transmitting Network Data, i used [Volley](https://github.com/google/volley).
 
 For image loading, i used [Glide](https://github.com/bumptech/glide).
+
+## Final result
+<img src="result.png" width="150px"></img>
